@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Kaleb, Year 2 tech enthusisit studying Applied AI and analytics
 
 <!--
 **Kaleb-Nim/Kaleb-Nim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
