@@ -1,6 +1,7 @@
 ### Hi there 👋 
 I'm Kaleb, Year 2 tech enthusisit studying Applied AI and analytics
 
+Currently Interning at A*STAR doing research in NLP and LLMs for Monitoring Disruption Events in supply chain.
 <!--
 **Kaleb-Nim/Kaleb-Nim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
