@@ -26,22 +26,26 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
 <!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <img title="C++" height="25" src="images/cpp.svg"></code>
-  <img title="Problem Solving" height="25" src="images/problemSolving.png">
+  <img title="Langchain" height="25" src="images/Langchain.png"></code>
+  <img title="Pinecone" height="25" src="images/pinecone.png">
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <img title="Python" height="25" src="images/python-original.svg">
-  <img title="Numpy" height="25" src="images/numpy.svg">
-  <img title="Pandas" height="25" src="images/pandas.svg">
-  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
-  <img title="Seaborn" height="25" src="images/seaborn.svg">
-  <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="JSON" height="25" src="images/json.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
-  <img title="Visual Studio Code" height="25" src="images/vscode.png">
+  <img title="SpaCy" height="25" src="images/SpaCy_logo.svg.png">
+  <img title="Keras" height="25" src="images/Keras.png">
+  <img title="Pytorch" height="25" src="images/pytorch.png">
+  <img title="Weights-and-Bias" height="25" src="images/wandb.png">
+  <img title="sk-learn" height="25" src="images/sklearn.png">
+  <img title="Plotly" height="25" src="images/Plotly.png">
+  <img title="Pandas" height="25" src="images/Pandas.png">
+  <img title="Python" height="25" src="images/python.png">
+
+  <img title="Azure" height="25" src="images/Microsoft_Azure.svg.png">
+  <img title="Supabase" height="25" src="images/supabase.png">
+  <img title="Firebase" height="25" src="images/Firebase.png">
+  <img title="Typescript" height="25" src="images/Typescript.png">
+  <img title="Tailwind" height="25" src="images/tailwind.png">
+  <img title="React" height="25" src="images/React.png">
+  <img title="Vercel" height="25" src="images/Vercel.png">
+
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 <hr>
