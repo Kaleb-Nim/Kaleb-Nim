@@ -53,13 +53,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
+
+<!--   ADD Most Popular Repos Next time ba -->
 <p align="center">
 <a href="https://github.com/Kaleb-Nim/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Nim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img height=200  src="https://github-readme-stats.vercel.app/api?username=Kaleb-Nim&theme=tokyonight" />
  </a>
 </p>
 
-<!--   ADD Most Popular Repos Next time ba -->
+<p align="center">
+<a href="https://github.com/Kaleb-Nim/">
+      <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Nim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a>
+<a href="https://github.com/Kaleb-Nim/">
+      <img height=200  src="https://streak-stats.demolab.com/?user=Kaleb-Nim&theme=tokyonight" />
+ </a>
+</p>
 
-![KalebNim Github stats](https://github-readme-stats.vercel.app/api?username=Kaleb-Nim&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kaleb-Nim&theme=tokyonight)
