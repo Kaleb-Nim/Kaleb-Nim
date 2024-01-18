@@ -9,7 +9,7 @@
   Hi, I'm Kaleb Nim, AI Engineer from Singapore
   <br>
   <br>
-  👨‍🎓 I'm currently doing my internship @A*STAR - Agency for Science, Technology and Research(ARTC) as an AI Engineer
+  👨‍🎓 I'm currently working full-time @A*STAR - Agency for Science, Technology and Research(ARTC) as an AI Engineer
   
   <br>
   💻 I love LLMs, NLP, Data Science and learning anything about them 😊
